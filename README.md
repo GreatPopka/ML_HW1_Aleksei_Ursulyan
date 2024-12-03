@@ -20,9 +20,9 @@
 
 Скриншоты работы сервиса:
 1. Предсказание одного автомобиля
-![image](https://github.com/user-attachments/assets/2f916c2b-ea37-4096-947c-1c2a1d07c37f)
+![image](https://github.com/user-attachments/assets/bb54de1f-7f63-4e04-bb9f-eb14bee1d8ac)
 2. Предсказание нескольких автомобилей
-![image](https://github.com/user-attachments/assets/2c39f5b2-78fd-4a5c-99d8-4916b55ef5b8)
+![image](https://github.com/user-attachments/assets/70ddc8dc-deae-4a4f-90de-606c5065ff16)
 3. Загрузка файла CSV
 ![image](https://github.com/user-attachments/assets/a5af0364-f5a4-4182-890f-b0878b8a77a6)
 
